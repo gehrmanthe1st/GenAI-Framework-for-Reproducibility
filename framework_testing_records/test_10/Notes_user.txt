@@ -1,0 +1,7 @@
+Notes:
+
+- The only note is usage of anthropic for specific error corrections, as OpenAI was correct on most of the code.
+
+Results:
+
+- The Hardwicke results did not calculate the F-stat value for the ANOVA table, they may have missed this. Our testing missed out on calculating the C.I. bonding and pain means.

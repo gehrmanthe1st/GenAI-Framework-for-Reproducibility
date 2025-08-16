@@ -1,0 +1,7 @@
+Notes:
+
+- Anthropic code was cleaner. Due to use updates and addition over chatgpt
+- OpenAI code had errors in calculating the effectsizes, user tried to fix them through adding those errors in anthropic code revaluation. but then decided to remove the calculation of the effect sizes completely as that was not reported. 
+
+Results:
+The minor error between test and original t-stat could be due to rounding errors.

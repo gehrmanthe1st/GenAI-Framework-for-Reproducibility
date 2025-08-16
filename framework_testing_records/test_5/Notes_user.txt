@@ -1,0 +1,11 @@
+Notes:
+
+- Assumption made by me regarding the coding of Trust1Attrc0 variable. As the code in dataset and codebook did not match
+- minor fixes in GPT code, related to naming columns while extracting data from anova table for interaction or eta-squared
+- Repeated Anthropic output for code, by adding suggestions on changing the method of analysis that was used. 
+- User added the eta-squared results by hand. To avoid excessive reiteration on the LLM code
+- Note regarding further changes has been added to the python script. To be implemented before next test.
+
+Results:
+
+- After checking Hardwicke results, user realised that there was an addition provided by the author in terms of SPSS Syntax for running the MANOVA. We used basic web browser gpt-o3 to convert it to R and implement it into our R code. This was done as it was a simple task and required just a single prompt. 

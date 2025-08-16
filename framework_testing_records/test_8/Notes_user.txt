@@ -1,0 +1,12 @@
+Notes:
+
+- The final code has difference in F-stat from article. This could be simply because of confusion due to more convoluted variables? Not really sure why none of them match. I could not think of a reason. 
+- Also recreation of table is not easy or always has some concern most of the times. This time we only have 3 out of 6 variables outputted for some reason.
+- The supplementary notes also did not really help in understanding how the analysis is done.
+- Additions were not made by user as there were multiple problems with the script that we were unable to fix. Additionally reproducing tables and figures was kept as secondary motivation as we had seen multiple times that models struggle a lot with this.
+
+Results:
+
+- Table pes not calculated by Hardwicke
+- Apart from the effect size table, nothing else matches. The pes in that table don't match either. But I am not sure why nothing else matches
+- out of 6 values from table 3 were not reproduced due to model hallucinations so were not added

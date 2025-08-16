@@ -1,0 +1,14 @@
+Notes:
+
+- Time recorded for cleaning data was not for cleaning data rather for understanding the variables as the SPSS variable info was not clear on some varibales
+- I tried using the OpenAI code, but due to confusion regarding the analysis method the ANOVA test method used by OpenAI had wrong degree of freedoms. I realised that instead of averaging the direction of rotation, if we use each separately and treat each sample separately for each side we would get the right degree of freedom. 
+- To do this, rather than changing the code on my own, I let Anthropic make the changes by providing instruction.
+- Even with providing suggestion to anthropic the code did not work. It felt like a few things were to be assumed instead of being mentioned?
+- The choice of variable assumed, the choice consider each side as separate and not related had to be assumed. Fixing this code took a long time. 
+- The cohens_d() function was also not correctly used, so user had to correct that. PES added as well, models always assume pes is calculated in anova (which ends up being ges as they love using ezANOVA) 
+
+Result:
+
+- All p-values were less than 0.01 as mentioned in the article. 
+- Figure was not reproduced in this case though.
+- 1 major error was noticed for a p-value, which was present in Hardwicke but not recorded by them.

@@ -1,0 +1,76 @@
+1. Specification Completeness (SC)
+What it measures:
+How fully each step of the pipeline is described in the literature (inputs, operations, outputs, parameters).
+
+How to compute:
+
+Itemize every distinct pipeline step mentioned in the paper (e.g., data import, filtering, aggregation, statistical test, visualization).
+
+For each step, check whether all of the following are explicitly specified:
+
+Data inputs (e.g. which variables, formats)
+
+Processing method (e.g. “compute mean,” “run t-test,” “fit linear model with X predictors”)
+
+Expected outputs (e.g. tables, figures, summary statistics)
+
+Any parameters or thresholds (e.g. period = 100–172, α = 0.05)
+
+SC score = (Number of fully specified steps) ÷ (Total steps) × 100%.
+
+2. Modularity Index (MI)
+What it measures:
+Degree to which the pipeline breaks the analysis into self-contained, non-overlapping units.
+
+How to compute:
+
+Count the total number of conceptual modules (e.g., Data → Filter → Aggregate → Test).
+
+Count instances of “compound steps” that mix multiple operations (e.g. “filter and aggregate” in one directive).
+
+MI = 1 – (Compound steps ÷ Total modules).
+
+MI = 1 implies every module is atomic and focused.
+
+MI → 0 implies heavy coupling and poor modularity.
+
+3. Parameter Explicitness Ratio (PER)
+What it measures:
+Fraction of all analysis parameters (e.g. window bounds, confidence levels, filter thresholds) that are given explicit values.
+
+How to compute:
+
+List every parameter the pipeline logically requires (even if not named in the text).
+
+Count those for which the paper states a concrete value (e.g. “periods 100–172,” α = .05).
+
+PER = (Parameters with stated values) ÷ (Total parameters) × 100%.
+
+4. Provenance Specification Level (PSL)
+What it measures:
+Degree to which the specification defines data lineage (“provenance”) for each step—answering the W7 questions: What, When, Where, How, Who, Which, Why.
+
+How to compute:
+
+For each step, mark which of the W7 elements are explicitly addressed.
+
+PSL = (Total W7 elements specified across all steps) ÷ (7 × Total steps) × 100%.
+
+5. Documentation Quality Score (DQS)
+What it measures:
+Breadth and clarity of pipeline documentation in the specification itself (flowcharts, pseudocode, narrative).
+
+How to compute:
+Assign one point for each of the following present in the paper (or supplemental material):
+
+High-level flowchart or schematic of the pipeline
+
+Step-by-step narrative (numbered or bulleted)
+
+Pseudocode or algorithmic outline
+
+Table summarizing inputs/outputs for each step
+
+References to any external standards or templates (e.g. CWL)
+DQS = (Points awarded) ÷ 5 × 100%.
+

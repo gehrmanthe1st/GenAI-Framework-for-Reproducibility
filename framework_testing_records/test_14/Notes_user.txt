@@ -1,0 +1,12 @@
+Notes:
+
+- Data cleaning wasn't needed per say, but it took time as there is no codebook and some variables were confusing
+- Running the script took a bit longer, due to the analysis pipeline (gpt) it considered a very convoluted significance test. It also gave out the wrong calculations for the table. It took a few tries to fix that. Plus the table took time to properly provide to model as the as it wasn't being described or understood properly by the model.
+- The validation code was changed, as the original suggestion was wrong due to no consideration for center shot. This is for openAI code.
+- The validation data code was fixed in anthropic by mentioning it in the update section
+
+Result:
+
+- The table switched the naming for the right and left for direction of penalty kick.
+- 1 minor error in test vs article, while this value is same as Hardwicke
+- The statistically significant test was not described in the article. Though the model was asked to aclculate it, but it calculated it on the recoded variables than the original coding, so we are not including these in the analysis

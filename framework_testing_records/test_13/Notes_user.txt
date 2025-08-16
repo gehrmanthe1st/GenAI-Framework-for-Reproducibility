@@ -1,0 +1,15 @@
+Notes:
+
+- The Cohen's d function used was correct, but the openAI code did not use f=NA argument for single sample test. This was fixed in Anthropic by mentioning in update rules
+- Cohen's d calculation was added by researcher for the post-hoc tests. As they were not added in the final R code.
+- 
+
+
+Result:
+- Graphs were plotted as asked for, eye comparison to check.
+- Realised user misunderstanding with research, the t-test p-value and Cohen's d were to be calculated for each age and each trait rather than the overall age. This section was added to the code while comparing with Hardwicke results. Though researcher still coded this section themselves.
+- We added the formula for Cohen's d formula for analysis basis what was used by Hardwicke as the assumption is this formula was provided by the article's author. As the formula looks different from normal Cohen's d calculations.
+- Regarding the post-hoc comparisons, author mentioned sidak correction, which we used in our emmeans workflow, while Hardwicke assumes sidak correction was applied on the alpha threshold instead. This would probably be the reason for the differences
+- From our analysis we have removed certain values from test 13 as the original author did not give enough clarity on methodology for certain results, nor provided further assistance to Hardwicke.
+
+

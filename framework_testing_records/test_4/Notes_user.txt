@@ -1,0 +1,4 @@
+Notes:
+
+- Added specific instructions in the very beginning, to point exactly towards which results should definitely exist.
+- Added a error handling rerun in the Anthropic section, as openAI was outputting error in this case, mostly because it was making the code a little more convoluted.

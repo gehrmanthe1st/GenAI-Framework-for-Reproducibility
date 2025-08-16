@@ -1,0 +1,10 @@
+Notes:
+
+- Tukey's test was not properly calculated. The problem is in regards to how TukeyHSD function works, as it does not consider error term when considering anova model. 
+- Anthropic used to update code for aov and tukeyHSD usage rather than ezANOVA and emmeans.
+- Model calculated Tukey's test but did not calculate the actual means which were also mentioned in the results.
+- Also  changes were done in variable names due to issue with data reading issues in R, plus additional code needed for calculating the means for comparison. Increased some time
+- The model seems to always use a non-existing function for calculating partial eta squared. [eta_Squared()] model assumes this function is a base R function.
+
+Results:
+Tukey's test results are same for both test and Hardwicke. The error in partial eta squared can be accounted by teh choice of function to calculate pes between test and Hardwicke.

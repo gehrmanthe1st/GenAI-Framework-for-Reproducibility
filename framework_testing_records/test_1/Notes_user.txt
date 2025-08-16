@@ -1,0 +1,6 @@
+Notes:
+
+- The output provided by pipeline was randomly pure code almost, a change has been added to provide instructions for the steps. 
+- Miss in the data filtering, but that could be marked to ambiguity in the way the article mentions removal of the 10 datasets. 
+- Minor changes made to the script, suggestions added for further changes. Not made in this script, will me made in the next test (test_2)
+- Addition to testing the Anthropic model in contextual nature, it worked well, but it will be changed back to full texts in messages_checker to keep it similar. Though the change is minimal and we might be able to save tokens in this aspect.

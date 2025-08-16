@@ -1,0 +1,31 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Secrets (keep real keys local)
+**/.env
+# (we keep templates)
+!**/.env.example
+
+# R (workspace/history not needed)
+.Rhistory
+.RData
+.Rproj.user/
+
+# Editors/IDEs (local settings)
+.vscode/
+.idea/
+
+# OS cruft
+.DS_Store
+Thumbs.db
+Desktop.ini
+._*
+
+# Logs / scratch
+*.log
+repo_tree.txt

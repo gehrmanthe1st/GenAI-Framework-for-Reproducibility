@@ -1,0 +1,7 @@
+Notes:
+
+- Chi-square calculations differed, but could this be because a specific library or function was used rather than standard one from R?
+
+
+Result:
+upon inspection of Hardwicke code, only difference is usage of CORRECT=False argument in chisq.test() function. This argument is necessary for 2x2 contingencies table and can be fixed by simple addition, but researcher was not aware of this requirement for the function. 

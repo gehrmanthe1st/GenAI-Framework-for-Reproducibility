@@ -1,0 +1,5 @@
+Notes:
+
+- Major time was spent in cleaning data for proper processing, additionally it made few of the beginning steps harder as the data had to be checked for missing if any.
+- Additions were made to this script over last in terms of usage and how much the user is able to control the final pipeline
+- Anthropic might have issues when not considered in contextual format as there is issue in the way the message is formatted or the token. But it is still able to revise the code.

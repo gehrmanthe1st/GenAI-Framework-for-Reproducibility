@@ -1,0 +1,20 @@
+The folder letters contain the speach sound used as targets
+The folder digits contain the speach sound used as primes
+
+Each folder in data contains one file per participant. Each line corresponds to one trial, the columns correspond to the following variables:
+
+- participant initials 
+- participant numerical identifier 
+- trial number 
+- prime congruency ("cong": visual and auditory primes are identical / incong: visual and auditory primes are different) 
+- relation between prime and target congruency ("rel" : both primes and targets are identical/different ; "unrel": primes are identical/different & targets are different/identical)
+- whether the auditory prime is unmasked (1) or masked (0)  
+- whether the visual prime is unmasked (1) or masked (0)  
+- auditory prime stimulus (2 / 4 / 6 / 8) 
+- auditory target stimulus (b / j / k / m)
+- visual prime stimulus (2 / 4 / 6 / 8) 
+- visual target stimulus (b / j / k / m)
+- response on the target (1: congruent / 0: incongruent) 
+- reaction time on the target in milliseconds 
+- response on the prime (1: congruent / 0: incongruent) 
+- reaction time on the target in milliseconds 

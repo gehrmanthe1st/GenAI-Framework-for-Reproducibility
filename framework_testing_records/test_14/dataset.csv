@@ -1,0 +1,241 @@
+keeper_score,new_score,id,year,team,penalty_taker,goalkeeper,directionshot,directiondive,result2,score,dive_right,dive_left,kick_right,kick_left,goal,miss,save,kick_gright,kick_gleft
+atie,not behind,1.0,2011,Argentina-Uruguay,Lionel Messi,Fernando Muslera,right,right,goal,0-0,1.0,0.0,1.0,0.0,1.0,0.0,0.0,0.0,1.0
+z_ahead,not behind,2.0,2011,Argentina-Uruguay,Diego Forlán,Sergio Romero,center,right,goal,1-0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0
+atie,not behind,3.0,2011,Argentina-Uruguay,Nicolás Burdisso,Fernando Muslera,right,left,goal,1-1,0.0,1.0,1.0,0.0,1.0,0.0,0.0,0.0,1.0
+z_ahead,not behind,4.0,2011,Argentina-Uruguay,Luis Suárez,Sergio Romero,left,right,goal,2-1,1.0,0.0,0.0,1.0,1.0,0.0,0.0,1.0,0.0
+atie,not behind,5.0,2011,Argentina-Uruguay,Carlos Tévez,Fernando Muslera,left,right,save,2-2,1.0,0.0,0.0,1.0,0.0,0.0,1.0,1.0,0.0
+atie,behind,6.0,2011,Argentina-Uruguay,Andrés Scotti,Sergio Romero,right,right,goal,2-2,1.0,0.0,1.0,0.0,1.0,0.0,0.0,0.0,1.0
+z_ahead,not behind,7.0,2011,Argentina-Uruguay,Javier Pastore,Fernando Muslera,left,right,goal,2-3,1.0,0.0,0.0,1.0,1.0,0.0,0.0,1.0,0.0
+atie,behind,8.0,2011,Argentina-Uruguay,Walter Gargano,Sergio Romero,left,right,goal,3-3,1.0,0.0,0.0,1.0,1.0,0.0,0.0,1.0,0.0
+z_ahead,not behind,9.0,2011,Argentina-Uruguay,Gonzalo Higuaín,Fernando Muslera,left,right,goal,3-4,1.0,0.0,0.0,1.0,1.0,0.0,0.0,1.0,0.0
+atie,behind,10.0,2011,Argentina-Uruguay,Martín Cáceres,Sergio Romero,right,left,goal,4-4,0.0,1.0,1.0,0.0,1.0,0.0,0.0,0.0,1.0
+atie,not behind,11.0,2011,Brazil-Paraguay,Elano,Justo Villar,left,right,miss,0-0,1.0,0.0,0.0,1.0,0.0,1.0,0.0,1.0,0.0
+atie,behind,12.0,2011,Brazil-Paraguay,Édgar Barreto,Júlio César,left,right,miss,0-0,1.0,0.0,0.0,1.0,0.0,1.0,0.0,1.0,0.0
+atie,not behind,13.0,2011,Brazil-Paraguay,Thiago Silva,Justo Villar,right,left,save,0-0,0.0,1.0,1.0,0.0,0.0,0.0,1.0,0.0,1.0
+atie,behind,14.0,2011,Brazil-Paraguay,Marcelo Estigarribia,Júlio César,center,left,goal,0-0,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0
+z_ahead,not behind,15.0,2011,Brazil-Paraguay,André Santos,Justo Villar,center,left,miss,0-1,0.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0
+a_behind,behind,16.0,2011,Brazil-Paraguay,Cristian Riveros,Júlio César,right,left,goal,0-1,0.0,1.0,1.0,0.0,1.0,0.0,0.0,0.0,1.0
+z_ahead,not behind,17.0,2011,Brazil-Paraguay,Fred,Justo Villar,left,right,miss,0-2,1.0,0.0,0.0,1.0,0.0,1.0,0.0,1.0,0.0
+atie,not behind,18.0,2011,Paraguay-Venezuela,Néstor Ortigoza,Renny Vega,right,right,goal,0-0,1.0,0.0,1.0,0.0,1.0,0.0,0.0,0.0,1.0
+z_ahead,not behind,19.0,2011,Paraguay-Venezuela,Giancarlo Maldonado,Justo Villar,left,left,goal,0-1,0.0,1.0,0.0,1.0,1.0,0.0,0.0,1.0,0.0
+atie,not behind,20.0,2011,Paraguay-Venezuela,Lucas Barrios,Renny Vega,right,right,goal,1-1,1.0,0.0,1.0,0.0,1.0,0.0,0.0,0.0,1.0
+z_ahead,not behind,21.0,2011,Paraguay-Venezuela,José Manuel Rey,Justo Villar,right,left,goal,1-2,0.0,1.0,1.0,0.0,1.0,0.0,0.0,0.0,1.0
+atie,not behind,22.0,2011,Paraguay-Venezuela,Cristian Riveros,Renny Vega,left,left,goal,2-2,0.0,1.0,0.0,1.0,1.0,0.0,0.0,1.0,0.0
+z_ahead,not behind,23.0,2011,Paraguay-Venezuela,Franklin Lucena,Justo Villar,left,right,save,2-3,1.0,0.0,0.0,1.0,0.0,0.0,1.0,1.0,0.0
+a_behind,behind,24.0,2011,Paraguay-Venezuela,Osvaldo Martínez,Renny Vega,center,right,goal,2-3,1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0
+z_ahead,not behind,25.0,2011,Paraguay-Venezuela,Miku,Justo Villar,left,right,goal,3-3,1.0,0.0,0.0,1.0,1.0,0.0,0.0,1.0,0.0
+a_behind,behind,26.0,2011,Paraguay-Venezuela,Dário Veron,Renny Vega,left,left,goal,3-4,0.0,1.0,0.0,1.0,1.0,0.0,0.0,1.0,0.0
+atie,not behind,27.0,2007,Brazil-Uruguay,Robinho,Fabián Carini,left,left,goal,0-0,0.0,1.0,0.0,1.0,1.0,0.0,0.0,1.0,0.0
+z_ahead,not behind,28.0,2007,Brazil-Uruguay,Forlan,Doni,center,right,save,1-0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0
+a_behind,behind,29.0,2007,Brazil-Uruguay,Juan,Fabián Carini,right,left,goal,1-0,0.0,1.0,1.0,0.0,1.0,0.0,0.0,0.0,1.0
+z_ahead,not behind,30.0,2007,Brazil-Uruguay,Scotti,Doni,right,right,goal,2-0,1.0,0.0,1.0,0.0,1.0,0.0,0.0,0.0,1.0
+a_behind,behind,31.0,2007,Brazil-Uruguay,Gilberto Silva,Fabián Carini,right,right,goal,2-1,1.0,0.0,1.0,0.0,1.0,0.0,0.0,0.0,1.0
+z_ahead,not behind,32.0,2007,Brazil-Uruguay,Gonzalez,Doni,right,center,goal,3-1,0.0,0.0,1.0,0.0,1.0,0.0,0.0,0.0,1.0
+a_behind,behind,33.0,2007,Brazil-Uruguay,Afonso,Fabián Carini,left,right,miss,3-2,1.0,0.0,0.0,1.0,0.0,1.0,0.0,1.0,0.0
+z_ahead,not behind,34.0,2007,Brazil-Uruguay,Rodriguez,Doni,center,left,goal,3-2,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0
+atie,not behind,35.0,2007,Brazil-Uruguay,Diego,Fabián Carini,left,left,goal,3-3,0.0,1.0,0.0,1.0,1.0,0.0,0.0,1.0,0.0
+z_ahead,not behind,36.0,2007,Brazil-Uruguay,Abreu,Doni,center,right,goal,4-3,1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0
+atie,not behind,37.0,2007,Brazil-Uruguay,Fernando,Fabián Carini,left,right,miss,4-4,1.0,0.0,0.0,1.0,0.0,1.0,0.0,1.0,0.0
+atie,behind,38.0,2007,Brazil-Uruguay,Garcia,Doni,right,left,miss,4-4,0.0,1.0,1.0,0.0,0.0,1.0,0.0,0.0,1.0
+atie,not behind,39.0,2007,Brazil-Uruguay,Gilberto,Fabián Carini,right,left,goal,4-4,0.0,1.0,1.0,0.0,1.0,0.0,0.0,0.0,1.0
+z_ahead,not behind,40.0,2007,Brazil-Uruguay,Lugano,Doni,center,center,save,5-4,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0
+atie,not behind,41.0,2004,Uruguay-Brazil,Luisao,Sebastián Viera,right,right,goal,0-0,1.0,0.0,1.0,0.0,1.0,0.0,0.0,0.0,1.0
+z_ahead,not behind,42.0,2004,Uruguay-Brazil,Silva,Júlio César,right,left,goal,0-1,0.0,1.0,1.0,0.0,1.0,0.0,0.0,0.0,1.0
+atie,not behind,43.0,2004,Uruguay-Brazil,Fabiano,Sebastián Viera,right,right,goal,1-1,1.0,0.0,1.0,0.0,1.0,0.0,0.0,0.0,1.0
+z_ahead,not behind,44.0,2004,Uruguay-Brazil,Viera,Júlio César,left,center,goal,1-2,0.0,0.0,0.0,1.0,1.0,0.0,0.0,1.0,0.0
+atie,not behind,45.0,2004,Uruguay-Brazil,Adriano,Sebastián Viera,right,right,goal,2-2,1.0,0.0,1.0,0.0,1.0,0.0,0.0,0.0,1.0
+z_ahead,not behind,46.0,2004,Uruguay-Brazil,Pouso,Júlio César,right,right,goal,2-3,1.0,0.0,1.0,0.0,1.0,0.0,0.0,0.0,1.0
+atie,not behind,47.0,2004,Uruguay-Brazil,Renato,Sebastián Viera,left,right,goal,3-3,1.0,0.0,0.0,1.0,1.0,0.0,0.0,1.0,0.0
+z_ahead,not behind,48.0,2004,Uruguay-Brazil,Sanchez,Júlio César,right,left,save,3-4,0.0,1.0,1.0,0.0,0.0,0.0,1.0,0.0,1.0
+a_behind,behind,49.0,2004,Uruguay-Brazil,Alex,Sebastian Viera,right,right,goal,3-4,1.0,0.0,1.0,0.0,1.0,0.0,0.0,0.0,1.0
+atie,not behind,50.0,2004,Argentina-Brazil,D'Alessandro,Júlio César,left,right,save,0-0,1.0,0.0,0.0,1.0,0.0,0.0,1.0,1.0,0.0
+atie,behind,51.0,2004,Argentina-Brazil,Adriano,Roberto Abbondanzieri,left,center,goal,0-0,0.0,0.0,0.0,1.0,1.0,0.0,0.0,1.0,0.0
+z_ahead,not behind,52.0,2004,Argentina-Brazil,Heinze,Júlio César,center,center,miss,0-1,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0
+a_behind,behind,53.0,2004,Argentina-Brazil,Edu,Roberto Abbondanzieri,right,right,goal,1-1,1.0,0.0,1.0,0.0,1.0,0.0,0.0,0.0,1.0
+z_ahead,not behind,54.0,2004,Argentina-Brazil,K. Gonzalez,Júlio César,right,center,goal,1-2,0.0,0.0,1.0,0.0,1.0,0.0,0.0,0.0,1.0
+a_behind,behind,55.0,2004,Argentina-Brazil,Diego,Roberto Abbondanzieri,left,right,goal,1-2,1.0,0.0,0.0,1.0,1.0,0.0,0.0,1.0,0.0
+z_ahead,not behind,56.0,2004,Argentina-Brazil,Sorin,Júlio César,center,right,goal,1-3,1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0
+a_behind,behind,57.0,2004,Argentina-Brazil,Juan,Roberto Abbondanzieri,right,right,goal,2-3,1.0,0.0,1.0,0.0,1.0,0.0,0.0,0.0,1.0
+atie,not behind,58.0,2001,Uruguay-Honduras,Gonzalo Sorondo,Henry Enamorado,left,right,goal,0-0,1.0,0.0,0.0,1.0,1.0,0.0,0.0,1.0,0.0
+z_ahead,not behind,59.0,2001,Uruguay-Honduras,Pineda,Adrián Berbia,right,center,goal,1-0,0.0,0.0,1.0,0.0,1.0,0.0,0.0,0.0,1.0
+atie,not behind,60.0,2001,Uruguay-Honduras,Gutierrez,Henry Enamorado,left,right,save,1-1,1.0,0.0,0.0,1.0,0.0,0.0,1.0,1.0,0.0
+atie,behind,61.0,2001,Uruguay-Honduras,S. Martinez,Adrián Berbia,left,right,goal,1-1,1.0,0.0,0.0,1.0,1.0,0.0,0.0,1.0,0.0
+z_ahead,not behind,62.0,2001,Uruguay-Honduras,Rodriguez,Henry Enamorado,left,left,goal,1-2,0.0,1.0,0.0,1.0,1.0,0.0,0.0,1.0,0.0
+atie,behind,63.0,2001,Uruguay-Honduras,Garcia,Adrián Berbia,left,left,goal,2-2,0.0,1.0,0.0,1.0,1.0,0.0,0.0,1.0,0.0
+z_ahead,not behind,64.0,2001,Uruguay-Honduras,Lemos,Henry Enamorado,right,right,goal,2-3,1.0,0.0,1.0,0.0,1.0,0.0,0.0,0.0,1.0
+atie,behind,65.0,2001,Uruguay-Honduras,Medina Bello,Adrián Berbia,left,right,goal,3-3,1.0,0.0,0.0,1.0,1.0,0.0,0.0,1.0,0.0
+z_ahead,not behind,66.0,2001,Uruguay-Honduras,Olivera,Henry Enamorado,left,left,goal,3-4,0.0,1.0,0.0,1.0,1.0,0.0,0.0,1.0,0.0
+atie,behind,67.0,2001,Uruguay-Honduras,Izaguirre,Adrián Berbia,right,right,goal,4-4,1.0,0.0,1.0,0.0,1.0,0.0,0.0,0.0,1.0
+atie,not behind,68.0,1999,Peru-Mexico,Claudio Suárez,Óscar Ibáñez,right,left,goal,0-0,0.0,1.0,1.0,0.0,1.0,0.0,0.0,0.0,1.0
+z_ahead,not behind,69.0,1999,Peru-Mexico,Solano,Jorge Campos,left,center,goal,0-1,0.0,0.0,0.0,1.0,1.0,0.0,0.0,1.0,0.0
+atie,not behind,70.0,1999,Peru-Mexico,Terrazas,Óscar Ibáñez,right,right,goal,1-1,1.0,0.0,1.0,0.0,1.0,0.0,0.0,0.0,1.0
+z_ahead,not behind,71.0,1999,Peru-Mexico,Jorge Soto,Jorge Campos,right,right,goal,1-2,1.0,0.0,1.0,0.0,1.0,0.0,0.0,0.0,1.0
+atie,not behind,72.0,1999,Peru-Mexico,Garcia,Óscar Ibáñez,right,right,goal,2-2,1.0,0.0,1.0,0.0,1.0,0.0,0.0,0.0,1.0
+z_ahead,not behind,73.0,1999,Peru-Mexico,Jose Soto,Jorge Campos,center,left,miss,2-3,0.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0
+a_behind,behind,74.0,1999,Peru-Mexico,Zepeda,Óscar Ibáñez,left,right,goal,2-3,1.0,0.0,0.0,1.0,1.0,0.0,0.0,1.0,0.0
+z_ahead,not behind,75.0,1999,Peru-Mexico,Reynoso,Jorge Campos,right,left,miss,2-4,0.0,1.0,1.0,0.0,0.0,1.0,0.0,0.0,1.0
+atie,not behind,76.0,1999,Paraguay-Uruguay,Andrés Fleurquin,Tavarelli,right,right,goal,0-0,1.0,0.0,1.0,0.0,1.0,0.0,0.0,0.0,1.0
+z_ahead,not behind,77.0,1999,Paraguay-Uruguay,Acuna,Fabián Carini,left,right,goal,0-1,1.0,0.0,0.0,1.0,1.0,0.0,0.0,1.0,0.0
+atie,not behind,78.0,1999,Paraguay-Uruguay,Guigou,Tavarelli,right,center,goal,1-1,0.0,0.0,1.0,0.0,1.0,0.0,0.0,0.0,1.0
+z_ahead,not behind,79.0,1999,Paraguay-Uruguay,Gamarra,Fabián Carini,left,right,goal,1-2,1.0,0.0,0.0,1.0,1.0,0.0,0.0,1.0,0.0
+atie,not behind,80.0,1999,Paraguay-Uruguay,Alonso,Tavarelli,right,right,goal,2-2,1.0,0.0,1.0,0.0,1.0,0.0,0.0,0.0,1.0
+z_ahead,not behind,81.0,1999,Paraguay-Uruguay,Enciso,Fabián Carini,left,right,goal,2-3,1.0,0.0,0.0,1.0,1.0,0.0,0.0,1.0,0.0
+atie,not behind,82.0,1999,Paraguay-Uruguay,Zalayeta,Tavarelli,left,left,goal,3-3,0.0,1.0,0.0,1.0,1.0,0.0,0.0,1.0,0.0
+z_ahead,not behind,83.0,1999,Paraguay-Uruguay,Benitez,Fabián Carini,right,left,save,3-4,0.0,1.0,1.0,0.0,0.0,0.0,1.0,0.0,1.0
+a_behind,behind,84.0,1999,Paraguay-Uruguay,Magallanes,Tavarelli,left,left,goal,3-4,0.0,1.0,0.0,1.0,1.0,0.0,0.0,1.0,0.0
+atie,not behind,85.0,1999,Uruguay-Chile,Del Campo,Marcelo Ramírez,left,left,goal,0-0,0.0,1.0,0.0,1.0,1.0,0.0,0.0,1.0,0.0
+z_ahead,not behind,86.0,1999,Uruguay-Chile,Vargas,Fabián Carini,center,right,goal,1-0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0
+atie,not behind,87.0,1999,Uruguay-Chile,Guigou,Marcelo Ramírez,center,right,goal,1-1,1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0
+z_ahead,not behind,88.0,1999,Uruguay-Chile,Aros,Fabián Carini,right,left,save,2-1,0.0,1.0,1.0,0.0,0.0,0.0,1.0,0.0,1.0
+a_behind,behind,89.0,1999,Uruguay-Chile,Alonso,Marcelo Ramírez,right,left,goal,2-1,0.0,1.0,1.0,0.0,1.0,0.0,0.0,0.0,1.0
+z_ahead,not behind,90.0,1999,Uruguay-Chile,Pizarro,Fabián Carini,right,right,goal,3-1,1.0,0.0,1.0,0.0,1.0,0.0,0.0,0.0,1.0
+a_behind,behind,91.0,1999,Uruguay-Chile,Zalayeta,Marcelo Ramírez,center,right,goal,3-2,1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0
+z_ahead,not behind,92.0,1999,Uruguay-Chile,Reyes,Fabián Carini,right,left,goal,4-2,0.0,1.0,1.0,0.0,1.0,0.0,0.0,0.0,1.0
+a_behind,behind,93.0,1999,Uruguay-Chile,Magalianes,Marcelo Ramírez,left,right,goal,4-3,1.0,0.0,0.0,1.0,1.0,0.0,0.0,1.0,0.0
+atie,not behind,94.0,1997,Mexico-Ecuador,Montano,Adolfo Rios,left,left,goal,0-0,0.0,1.0,0.0,1.0,1.0,0.0,0.0,1.0,0.0
+z_ahead,not behind,95.0,1997,Mexico-Ecuador,Hernandez,Oswaldo Ibarra,left,left,goal,0-1,0.0,1.0,0.0,1.0,1.0,0.0,0.0,1.0,0.0
+atie,not behind,96.0,1997,Mexico-Ecuador,Capurro,Adolfo Rios,center,center,save,1-1,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0
+atie,behind,97.0,1997,Mexico-Ecuador,Suarez,Oswaldo Ibarra,left,right,goal,1-1,1.0,0.0,0.0,1.0,1.0,0.0,0.0,1.0,0.0
+z_ahead,not behind,98.0,1997,Mexico-Ecuador,Ulises De la Cruz,Adolfo Rios,right,left,save,2-1,0.0,1.0,1.0,0.0,0.0,0.0,1.0,0.0,1.0
+a_behind,behind,99.0,1997,Mexico-Ecuador,Blanco,Oswaldo Ibarra,left,right,save,2-1,1.0,0.0,0.0,1.0,0.0,0.0,1.0,1.0,0.0
+z_ahead,not behind,100.0,1997,Mexico-Ecuador,Graziani,Adolfo Rios,left,right,goal,2-1,1.0,0.0,0.0,1.0,1.0,0.0,0.0,1.0,0.0
+atie,behind,101.0,1997,Mexico-Ecuador,Chavez,Oswaldo Ibarra,left,left,goal,2-2,0.0,1.0,0.0,1.0,1.0,0.0,0.0,1.0,0.0
+z_ahead,not behind,102.0,1997,Mexico-Ecuador,Fernandez,Adolfo Rios,center,left,goal,3-2,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0
+atie,behind,103.0,1997,Mexico-Ecuador,Villa,Oswaldo Ibarra,left,right,miss,3-3,1.0,0.0,0.0,1.0,0.0,1.0,0.0,1.0,0.0
+atie,not behind,104.0,1997,Mexico-Ecuador,Rosero,Adolfo Rios,right,left,save,3-3,0.0,1.0,1.0,0.0,0.0,0.0,1.0,0.0,1.0
+atie,behind,105.0,1997,Mexico-Ecuador,Sanchez,Oswaldo Ibarra,right,center,goal,3-3,0.0,0.0,1.0,0.0,1.0,0.0,0.0,0.0,1.0
+atie,not behind,106.0,1995,Argentina-Brazil,Roberto Carlos,Rolando Cristante,left,left,goal,0-0,0.0,1.0,0.0,1.0,1.0,0.0,0.0,1.0,0.0
+z_ahead,not behind,107.0,1995,Argentina-Brazil,Perez,Taffarel,center,left,goal,0-1,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0
+atie,not behind,108.0,1995,Argentina-Brazil,Tulio,Rolando Cristante,center,right,goal,1-1,1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0
+z_ahead,not behind,109.0,1995,Argentina-Brazil,Acosta,Taffarel,right,right,goal,1-2,1.0,0.0,1.0,0.0,1.0,0.0,0.0,0.0,1.0
+atie,not behind,110.0,1995,Argentina-Brazil,Andre Cruz,Rolando Cristante,right,left,save,2-2,0.0,1.0,1.0,0.0,0.0,0.0,1.0,0.0,1.0
+atie,behind,111.0,1995,Argentina-Brazil,Simeone,Taffarel,right,left,save,2-2,0.0,1.0,1.0,0.0,0.0,0.0,1.0,0.0,1.0
+atie,not behind,112.0,1995,Argentina-Brazil,Dunga,Rolando Cristante,left,left,goal,2-2,0.0,1.0,0.0,1.0,1.0,0.0,0.0,1.0,0.0
+z_ahead,not behind,113.0,1995,Argentina-Brazil,Fabbri,Taffarel,right,left,save,2-3,0.0,1.0,1.0,0.0,0.0,0.0,1.0,0.0,1.0
+a_behind,behind,114.0,1995,Argentina-Brazil,Edmundo,Rolando Cristante,left,right,goal,2-3,1.0,0.0,0.0,1.0,1.0,0.0,0.0,1.0,0.0
+atie,not behind,115.0,1995,Uruguay-Brazil,Francescoli,Taffarel,right,left,goal,0-0,0.0,1.0,1.0,0.0,1.0,0.0,0.0,0.0,1.0
+z_ahead,not behind,116.0,1995,Uruguay-Brazil,Roberto Carlos,Fernando Alvez,center,right,goal,1-0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0
+atie,not behind,117.0,1995,Uruguay-Brazil,Bengoechea,Taffarel,left,right,goal,1-1,1.0,0.0,0.0,1.0,1.0,0.0,0.0,1.0,0.0
+z_ahead,not behind,118.0,1995,Uruguay-Brazil,Zinho,Fernando Alvez,right,right,goal,2-1,1.0,0.0,1.0,0.0,1.0,0.0,0.0,0.0,1.0
+atie,not behind,119.0,1995,Uruguay-Brazil,Herrera,Taffarel,right,left,goal,2-2,0.0,1.0,1.0,0.0,1.0,0.0,0.0,0.0,1.0
+z_ahead,not behind,120.0,1995,Uruguay-Brazil,Tulio,Fernando Alvez,left,right,save,3-2,1.0,0.0,0.0,1.0,0.0,0.0,1.0,1.0,0.0
+a_behind,behind,121.0,1995,Uruguay-Brazil,Gutierrez,Taffarel,left,left,goal,3-2,0.0,1.0,0.0,1.0,1.0,0.0,0.0,1.0,0.0
+z_ahead,not behind,122.0,1995,Uruguay-Brazil,Dunga,Fernando Alvez,left,right,goal,4-2,1.0,0.0,0.0,1.0,1.0,0.0,0.0,1.0,0.0
+a_behind,behind,123.0,1995,Uruguay-Brazil,Martinez,Taffarel,left,left,goal,4-3,0.0,1.0,0.0,1.0,1.0,0.0,0.0,1.0,0.0
+atie,not behind,124.0,1993,Argentina-Brazil,Zinho,Sergio Goycochea,left,left,goal,0-0,0.0,1.0,0.0,1.0,1.0,0.0,0.0,1.0,0.0
+z_ahead,not behind,125.0,1993,Argentina-Brazil,Gorosito,Zetti,right,center,goal,0-1,0.0,0.0,1.0,0.0,1.0,0.0,0.0,0.0,1.0
+atie,not behind,126.0,1993,Argentina-Brazil,Cafu,Sergio Goycochea,right,left,goal,1-1,0.0,1.0,1.0,0.0,1.0,0.0,0.0,0.0,1.0
+a_behind,behind,127.0,1993,Argentina-Brazil,Simeone,Zetti,right,right,goal,2-1,1.0,0.0,1.0,0.0,1.0,0.0,0.0,0.0,1.0
+atie,not behind,128.0,1993,Argentina-Brazil,Muller,Sergio Goycochea,left,right,goal,2-2,1.0,0.0,0.0,1.0,1.0,0.0,0.0,1.0,0.0
+a_behind,behind,129.0,1993,Argentina-Brazil,Rodriguez,Zetti,center,right,goal,3-2,1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0
+atie,not behind,130.0,1993,Argentina-Brazil,Roberto Carlos,Sergio Goycochea,left,left,goal,3-3,0.0,1.0,0.0,1.0,1.0,0.0,0.0,1.0,0.0
+a_behind,behind,131.0,1993,Argentina-Brazil,Acosta,Zetti,right,center,goal,4-3,0.0,0.0,1.0,0.0,1.0,0.0,0.0,0.0,1.0
+atie,not behind,132.0,1993,Argentina-Brazil,Luisinho,Sergio Goycochea,left,right,goal,4-4,1.0,0.0,0.0,1.0,1.0,0.0,0.0,1.0,0.0
+a_behind,behind,133.0,1993,Argentina-Brazil,Medina Bello,Zetti,left,right,goal,5-4,1.0,0.0,0.0,1.0,1.0,0.0,0.0,1.0,0.0
+atie,not behind,134.0,1993,Argentina-Brazil,Boiadeir,Sergio Goycochea,right,left,save,5-5,0.0,1.0,1.0,0.0,0.0,0.0,1.0,0.0,1.0
+atie,behind,135.0,1993,Argentina-Brazil,Borelli,Zetti,left,right,goal,5-5,1.0,0.0,0.0,1.0,1.0,0.0,0.0,1.0,0.0
+atie,not behind,136.0,1993,Argentina-Colombia,Rincón,Sergio Goycochea,left,right,goal,0-0,1.0,0.0,0.0,1.0,1.0,0.0,0.0,1.0,0.0
+z_ahead,not behind,137.0,1993,Argentina-Colombia,Gorosito,Óscar Córdoba,left,right,goal,0-1,1.0,0.0,0.0,1.0,1.0,0.0,0.0,1.0,0.0
+atie,not behind,138.0,1993,Argentina-Colombia,Asprilla,Sergio Goycochea,left,left,goal,1-1,0.0,1.0,0.0,1.0,1.0,0.0,0.0,1.0,0.0
+z_ahead,not behind,139.0,1993,Argentina-Colombia,Batistuta,Óscar Córdoba,right,left,goal,1-2,0.0,1.0,1.0,0.0,1.0,0.0,0.0,0.0,1.0
+atie,not behind,140.0,1993,Argentina-Colombia,Mendoza,Sergio Goycochea,left,right,goal,2-2,1.0,0.0,0.0,1.0,1.0,0.0,0.0,1.0,0.0
+z_ahead,not behind,141.0,1993,Argentina-Colombia,Simeone,Óscar Córdoba,center,left,goal,2-3,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0
+atie,not behind,142.0,1993,Argentina-Colombia,W. Perez,Sergio Goycochea,left,left,goal,3-3,0.0,1.0,0.0,1.0,1.0,0.0,0.0,1.0,0.0
+z_ahead,not behind,143.0,1993,Argentina-Colombia,Rodriguez,Óscar Córdoba,center,right,goal,3-4,1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0
+atie,not behind,144.0,1993,Argentina-Colombia,Valderrama,Sergio Goycochea,left,right,goal,4-4,1.0,0.0,0.0,1.0,1.0,0.0,0.0,1.0,0.0
+z_ahead,not behind,145.0,1993,Argentina-Colombia,Acosta,Óscar Córdoba,left,right,goal,4-5,1.0,0.0,0.0,1.0,1.0,0.0,0.0,1.0,0.0
+atie,not behind,146.0,1993,Argentina-Colombia,Aristizabal,Sergio Goycochea,left,right,save,5-5,1.0,0.0,0.0,1.0,0.0,0.0,1.0,1.0,0.0
+atie,behind,147.0,1993,Argentina-Colombia,Borelli,Óscar Córdoba,right,right,goal,5-5,1.0,0.0,1.0,0.0,1.0,0.0,0.0,0.0,1.0
+atie,not behind,149.0,2008,Manchester United-Chelsea,Tevez,Petr Cech,right,right,goal,0-0,1.0,0.0,1.0,0.0,1.0,0.0,0.0,0.0,1.0
+z_ahead,not behind,150.0,2008,Manchester United-Chelsea,Ballack,Van Der Sar,right,left,goal,1-0,0.0,1.0,1.0,0.0,1.0,0.0,0.0,0.0,1.0
+atie,not behind,151.0,2008,Manchester United-Chelsea,Carrick,Petr Cech,left,left,goal,1-1,0.0,1.0,0.0,1.0,1.0,0.0,0.0,1.0,0.0
+z_ahead,not behind,152.0,2008,Manchester United-Chelsea,Belletti,Van Der Sar,right,right,goal,2-1,1.0,0.0,1.0,0.0,1.0,0.0,0.0,0.0,1.0
+atie,not behind,153.0,2008,Manchester United-Chelsea,Ronaldo,Petr Cech,left,right,save,2-2,1.0,0.0,0.0,1.0,0.0,0.0,1.0,1.0,0.0
+atie,behind,154.0,2008,Manchester United-Chelsea,Lampard,Van Der Sar,right,left,goal,2-2,0.0,1.0,1.0,0.0,1.0,0.0,0.0,0.0,1.0
+z_ahead,not behind,155.0,2008,Manchester United-Chelsea,Hargreaves,Petr Cech,left,right,goal,2-3,1.0,0.0,0.0,1.0,1.0,0.0,0.0,1.0,0.0
+atie,behind,156.0,2008,Manchester United-Chelsea,A Cole,Van Der Sar,right,left,goal,3-3,0.0,1.0,1.0,0.0,1.0,0.0,0.0,0.0,1.0
+z_ahead,not behind,157.0,2008,Manchester United-Chelsea,Nani,Petr Cech,left,right,goal,3-4,1.0,0.0,0.0,1.0,1.0,0.0,0.0,1.0,0.0
+atie,behind,158.0,2008,Manchester United-Chelsea,Terry,Van Der Sar,right,right,miss,4-4,1.0,0.0,1.0,0.0,0.0,1.0,0.0,0.0,1.0
+atie,not behind,159.0,2008,Manchester United-Chelsea,Anderson,Petr Cech,center,left,goal,4-4,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0
+z_ahead,not behind,160.0,2008,Manchester United-Chelsea,Kalou,Van Der Sar,right,right,goal,5-4,1.0,0.0,1.0,0.0,1.0,0.0,0.0,0.0,1.0
+atie,not behind,161.0,2008,Manchester United-Chelsea,Giggs,Petr Cech,right,right,goal,5-5,1.0,0.0,1.0,0.0,1.0,0.0,0.0,0.0,1.0
+z_ahead,not behind,162.0,2008,Manchester United-Chelsea,Anelka,Van Der Sar,center,right,save,6-5,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0
+atie,not behind,163.0,2005,AC Milan-Liverpool,Serginho,dudek,left,right,miss,0-0,1.0,0.0,0.0,1.0,0.0,1.0,0.0,1.0,0.0
+atie,behind,164.0,2005,AC Milan-Liverpool,Hamann,dida,left,right,goal,0-0,1.0,0.0,0.0,1.0,1.0,0.0,0.0,1.0,0.0
+z_ahead,not behind,165.0,2005,AC Milan-Liverpool,Pirlo,dudek,left,right,save,0-1,1.0,0.0,0.0,1.0,0.0,0.0,1.0,1.0,0.0
+a_behind,behind,166.0,2005,AC Milan-Liverpool,Cisse,dida,right,right,goal,0-1,1.0,0.0,1.0,0.0,1.0,0.0,0.0,0.0,1.0
+z_ahead,not behind,167.0,2005,AC Milan-Liverpool,Tomasson,dudek,left,left,goal,0-2,0.0,1.0,0.0,1.0,1.0,0.0,0.0,1.0,0.0
+a_behind,behind,168.0,2005,AC Milan-Liverpool,Riise,dida,left,right,save,1-2,1.0,0.0,0.0,1.0,0.0,0.0,1.0,1.0,0.0
+z_ahead,not behind,169.0,2005,AC Milan-Liverpool,Kaka,dudek,center,left,goal,1-2,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0
+atie,behind,170.0,2005,AC Milan-Liverpool,Smicer,dida,right,right,goal,2-2,1.0,0.0,1.0,0.0,1.0,0.0,0.0,0.0,1.0
+z_ahead,not behind,171.0,2005,AC Milan-Liverpool,Shevchenko,dudek,center,right,save,2-3,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0
+atie,not behind,172.0,2003,Juventus-AC Milan,Trezeguet,Dida,right,left,save,0-0,0.0,1.0,1.0,0.0,0.0,0.0,1.0,0.0,1.0
+atie,behind,173.0,2003,Juventus-AC Milan,Serginho,Buffon,left,left,goal,0-0,0.0,1.0,0.0,1.0,1.0,0.0,0.0,1.0,0.0
+z_ahead,not behind,174.0,2003,Juventus-AC Milan,Birindelli,Dida,left,left,goal,0-1,0.0,1.0,0.0,1.0,1.0,0.0,0.0,1.0,0.0
+atie,behind,175.0,2003,Juventus-AC Milan,Seedorf,Buffon,left,right,save,1-1,1.0,0.0,0.0,1.0,0.0,0.0,1.0,1.0,0.0
+atie,not behind,176.0,2003,Juventus-AC Milan,Zalayeta,Dida,left,right,save,1-1,1.0,0.0,0.0,1.0,0.0,0.0,1.0,1.0,0.0
+atie,behind,177.0,2003,Juventus-AC Milan,Kaladze,Buffon,center,left,save,1-1,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0
+atie,not behind,178.0,2003,Juventus-AC Milan,Montero,Dida,center,left,save,1-1,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0
+atie,behind,179.0,2003,Juventus-AC Milan,Nesta,Buffon,right,left,goal,1-1,0.0,1.0,1.0,0.0,1.0,0.0,0.0,0.0,1.0
+z_ahead,not behind,180.0,2003,Juventus-AC Milan,Del Piero,Dida,right,right,goal,1-2,1.0,0.0,1.0,0.0,1.0,0.0,0.0,0.0,1.0
+atie,behind,181.0,2003,Juventus-AC Milan,Schevchenko,Buffon,right,right,goal,2-2,1.0,0.0,1.0,0.0,1.0,0.0,0.0,0.0,1.0
+atie,not behind,182.0,2001,Bayern Munich-Valencia,Sergio,Canizares,center,right,miss,0-0,1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0
+atie,behind,183.0,2001,Bayern Munich-Valencia,Mendieta,Kahn,right,right,goal,0-0,1.0,0.0,1.0,0.0,1.0,0.0,0.0,0.0,1.0
+z_ahead,not behind,184.0,2001,Bayern Munich-Valencia,Salihamidzic,Canizares,right,center,goal,0-1,0.0,0.0,1.0,0.0,1.0,0.0,0.0,0.0,1.0
+atie,behind,185.0,2001,Bayern Munich-Valencia,Carew,Kahn,right,right,goal,1-1,1.0,0.0,1.0,0.0,1.0,0.0,0.0,0.0,1.0
+z_ahead,not behind,186.0,2001,Bayern Munich-Valencia,Zickler,Canizares,right,right,goal,1-2,1.0,0.0,1.0,0.0,1.0,0.0,0.0,0.0,1.0
+atie,behind,187.0,2001,Bayern Munich-Valencia,Zahovic,Kahn,left,right,save,2-2,1.0,0.0,0.0,1.0,0.0,0.0,1.0,1.0,0.0
+atie,not behind,188.0,2001,Bayern Munich-Valencia,Andersson,Canizares,right,left,save,2-2,0.0,1.0,1.0,0.0,0.0,0.0,1.0,0.0,1.0
+atie,behind,189.0,2001,Bayern Munich-Valencia,Carboni,Kahn,center,left,save,2-2,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0
+atie,not behind,190.0,2001,Bayern Munich-Valencia,Effenberg,Canizares,left,right,goal,2-2,1.0,0.0,0.0,1.0,1.0,0.0,0.0,1.0,0.0
+z_ahead,not behind,191.0,2001,Bayern Munich-Valencia,Baraja,Kahn,left,right,goal,3-2,1.0,0.0,0.0,1.0,1.0,0.0,0.0,1.0,0.0
+atie,not behind,192.0,2001,Bayern Munich-Valencia,Lizarazu,Canizares,right,right,goal,3-3,1.0,0.0,1.0,0.0,1.0,0.0,0.0,0.0,1.0
+z_ahead,not behind,193.0,2001,Bayern Munich-Valencia,Gonzalez,Kahn,right,center,goal,4-3,0.0,0.0,1.0,0.0,1.0,0.0,0.0,0.0,1.0
+atie,not behind,194.0,2001,Bayern Munich-Valencia,Linke,Canizares,right,center,goal,4-4,0.0,0.0,1.0,0.0,1.0,0.0,0.0,0.0,1.0
+z_ahead,not behind,195.0,2001,Bayern Munich-Valencia,Pellegrino,Kahn,left,right,save,5-4,1.0,0.0,0.0,1.0,0.0,0.0,1.0,1.0,0.0
+atie,not behind,196.0,1996,Ajax-Juventus,Davids,Peruzzi,center,right,save,0-0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0
+atie,behind,197.0,1996,Ajax-Juventus,Ferrara,Van Der Sar,left,right,goal,0-0,1.0,0.0,0.0,1.0,1.0,0.0,0.0,1.0,0.0
+z_ahead,not behind,198.0,1996,Ajax-Juventus,Litmanen,Peruzzi,left,left,goal,0-1,0.0,1.0,0.0,1.0,1.0,0.0,0.0,1.0,0.0
+atie,behind,199.0,1996,Ajax-Juventus,Pessotto,Van Der Sar,left,right,goal,1-1,1.0,0.0,0.0,1.0,1.0,0.0,0.0,1.0,0.0
+z_ahead,not behind,200.0,1996,Ajax-Juventus,Scholten,Peruzzi,right,right,goal,1-2,1.0,0.0,1.0,0.0,1.0,0.0,0.0,0.0,1.0
+atie,behind,201.0,1996,Ajax-Juventus,Padovano,Van Der Sar,right,left,goal,2-2,0.0,1.0,1.0,0.0,1.0,0.0,0.0,0.0,1.0
+z_ahead,not behind,202.0,1996,Ajax-Juventus,Silooy,Peruzzi,right,left,save,2-3,0.0,1.0,1.0,0.0,0.0,0.0,1.0,0.0,1.0
+a_behind,behind,203.0,1996,Ajax-Juventus,Jugovic,Van Der Sar,left,right,goal,2-3,1.0,0.0,0.0,1.0,1.0,0.0,0.0,1.0,0.0
+atie,not behind,204.0,1991,Red Star Belgrade-Marseille,Prosinecki,,right,right,goal,0-0,1.0,0.0,1.0,0.0,1.0,0.0,0.0,0.0,1.0
+z_ahead,not behind,205.0,1991,Red Star Belgrade-Marseille,Amoros,Stojanovic,left,right,save,1-0,1.0,0.0,0.0,1.0,0.0,0.0,1.0,1.0,0.0
+a_behind,behind,206.0,1991,Red Star Belgrade-Marseille,Binic,,right,right,goal,1-0,1.0,0.0,1.0,0.0,1.0,0.0,0.0,0.0,1.0
+z_ahead,not behind,207.0,1991,Red Star Belgrade-Marseille,Casoni,Stojanovic,right,right,goal,2-0,1.0,0.0,1.0,0.0,1.0,0.0,0.0,0.0,1.0
+a_behind,behind,208.0,1991,Red Star Belgrade-Marseille,Belodedic,,left,right,goal,2-1,1.0,0.0,0.0,1.0,1.0,0.0,0.0,1.0,0.0
+z_ahead,not behind,209.0,1991,Red Star Belgrade-Marseille,Papin,Stojanovic,left,right,goal,3-1,1.0,0.0,0.0,1.0,1.0,0.0,0.0,1.0,0.0
+a_behind,behind,210.0,1991,Red Star Belgrade-Marseille,Mihajlovic,,right,right,goal,3-2,1.0,0.0,1.0,0.0,1.0,0.0,0.0,0.0,1.0
+z_ahead,not behind,211.0,1991,Red Star Belgrade-Marseille,Mozer,Stojanovic,right,right,goal,4-2,1.0,0.0,1.0,0.0,1.0,0.0,0.0,0.0,1.0
+a_behind,behind,212.0,1991,Red Star Belgrade-Marseille,Pancev,,left,center,goal,4-3,0.0,0.0,0.0,1.0,1.0,0.0,0.0,1.0,0.0
+atie,not behind,213.0,1988,PSV Eindhoven-Benfica,Koeman,Silvino,left,left,goal,0-0,0.0,1.0,0.0,1.0,1.0,0.0,0.0,1.0,0.0
+z_ahead,not behind,214.0,1988,PSV Eindhoven-Benfica,Elzo,Van Breukelen,left,right,goal,1-0,1.0,0.0,0.0,1.0,1.0,0.0,0.0,1.0,0.0
+atie,not behind,215.0,1988,PSV Eindhoven-Benfica,Kieft,Silvino,left,right,goal,1-1,1.0,0.0,0.0,1.0,1.0,0.0,0.0,1.0,0.0
+z_ahead,not behind,216.0,1988,PSV Eindhoven-Benfica,Dito,Van Breukelen,right,right,goal,2-1,1.0,0.0,1.0,0.0,1.0,0.0,0.0,0.0,1.0
+atie,not behind,217.0,1988,PSV Eindhoven-Benfica,Nielsen,Silvino,left,left,goal,2-2,0.0,1.0,0.0,1.0,1.0,0.0,0.0,1.0,0.0
+z_ahead,not behind,218.0,1988,PSV Eindhoven-Benfica,Hajri,Van Breukelen,right,left,goal,3-2,0.0,1.0,1.0,0.0,1.0,0.0,0.0,0.0,1.0
+atie,not behind,219.0,1988,PSV Eindhoven-Benfica,Vanenburg,Silvino,center,right,goal,3-3,1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0
+z_ahead,not behind,220.0,1988,PSV Eindhoven-Benfica,Pacheco,Van Breukelen,left,left,goal,4-3,0.0,1.0,0.0,1.0,1.0,0.0,0.0,1.0,0.0
+atie,not behind,221.0,1988,PSV Eindhoven-Benfica,Lerby,Silvino,left,left,goal,4-4,0.0,1.0,0.0,1.0,1.0,0.0,0.0,1.0,0.0
+z_ahead,not behind,222.0,1988,PSV Eindhoven-Benfica,Mozer,Van Breukelen,left,center,goal,5-4,0.0,0.0,0.0,1.0,1.0,0.0,0.0,1.0,0.0
+atie,not behind,223.0,1988,PSV Eindhoven-Benfica,Janssen,Silvino,left,left,goal,5-5,0.0,1.0,0.0,1.0,1.0,0.0,0.0,1.0,0.0
+atie,behind,224.0,1988,PSV Eindhoven-Benfica,Veloso,Van Breukelen,left,right,save,6-5,1.0,0.0,0.0,1.0,0.0,0.0,1.0,1.0,0.0
+atie,not behind,225.0,1986,Steaua Bucarest-Barcellona,Majearu,Urruti,right,left,save,0-0,0.0,1.0,1.0,0.0,0.0,0.0,1.0,0.0,1.0
+atie,behind,226.0,1986,Steaua Bucarest-Barcellona,Alexanko,Ducadam,left,right,save,0-0,1.0,0.0,0.0,1.0,0.0,0.0,1.0,1.0,0.0
+atie,not behind,227.0,1986,Steaua Bucarest-Barcellona,Boloni,Urruti,left,right,save,0-0,1.0,0.0,0.0,1.0,0.0,0.0,1.0,1.0,0.0
+atie,behind,228.0,1986,Steaua Bucarest-Barcellona,Pedraza,Ducadam,left,right,save,0-0,1.0,0.0,0.0,1.0,0.0,0.0,1.0,1.0,0.0
+atie,not behind,229.0,1986,Steaua Bucarest-Barcellona,Lacatus,Urruti,right,right,goal,0-0,1.0,0.0,1.0,0.0,1.0,0.0,0.0,0.0,1.0
+z_ahead,not behind,230.0,1986,Steaua Bucarest-Barcellona,Alonso,Ducadam,left,right,save,1-0,1.0,0.0,0.0,1.0,0.0,0.0,1.0,1.0,0.0
+a_behind,behind,231.0,1986,Steaua Bucarest-Barcellona,Balint,Urruti,left,center,goal,1-0,0.0,0.0,0.0,1.0,1.0,0.0,0.0,1.0,0.0
+z_ahead,not behind,232.0,1986,Steaua Bucarest-Barcellona,Marcos,Ducadam,right,left,save,2-0,0.0,1.0,1.0,0.0,0.0,0.0,1.0,0.0,1.0
+atie,not behind,233.0,1984,Liverpool-AS Roma,Nicol,,left,right,miss,0-0,1.0,0.0,0.0,1.0,0.0,1.0,0.0,1.0,0.0
+atie,behind,234.0,1984,Liverpool-AS Roma,Di Bartolomei,,center,right,goal,0-0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0
+z_ahead,not behind,235.0,1984,Liverpool-AS Roma,Neal,,right,right,goal,0-1,1.0,0.0,1.0,0.0,1.0,0.0,0.0,0.0,1.0
+atie,behind,236.0,1984,Liverpool-AS Roma,Conti,,right,left,miss,1-1,0.0,1.0,1.0,0.0,0.0,1.0,0.0,0.0,1.0
+atie,not behind,237.0,1984,Liverpool-AS Roma,Souness,,right,left,goal,1-1,0.0,1.0,1.0,0.0,1.0,0.0,0.0,0.0,1.0
+z_ahead,not behind,238.0,1984,Liverpool-AS Roma,Righetti,,right,right,goal,2-1,1.0,0.0,1.0,0.0,1.0,0.0,0.0,0.0,1.0
+atie,not behind,239.0,1984,Liverpool-AS Roma,Rush,,right,right,goal,2-2,1.0,0.0,1.0,0.0,1.0,0.0,0.0,0.0,1.0
+z_ahead,not behind,240.0,1984,Liverpool-AS Roma,Graziani,,right,right,miss,3-2,1.0,0.0,1.0,0.0,0.0,1.0,0.0,0.0,1.0
+a_behind,behind,241.0,1984,Liverpool-AS Roma,Kennedy,,left,left,goal,3-2,0.0,1.0,0.0,1.0,1.0,0.0,0.0,1.0,0.0

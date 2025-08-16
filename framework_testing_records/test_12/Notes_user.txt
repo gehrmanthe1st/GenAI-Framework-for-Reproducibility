@@ -1,0 +1,11 @@
+Notes:
+
+- In this case running the script took way longer, as the model was confused in which exact variable to use for analysis. Plus user added specific instructions to fix this. Plus user was a bit confused too and had to make sure they are making the right decision on the choice.
+- The model was also not considering all variables to recreate the table properly. User had to run the edit / data understanding prompt a few times toensure execution properly.
+- Even though the values are correct in the Table and we can safely assume that with further prompts we will get same values for the p-value and time diff columns. Both GPT and Anthropic are having difficulty properly printing the table without very specific instructions on how the table should be built. 
+- Additionally user manually removed the na.omit() function from the suggested R code.
+- Anthropic is able to produce all the required results
+
+Result:
+
+Minor error when comparing test with the Hardwicke results, these minor errors can be attributed to rounding errors.

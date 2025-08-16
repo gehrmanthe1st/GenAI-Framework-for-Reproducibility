@@ -1,0 +1,14 @@
+Notes:
+
+- Article was a bit confusing so took longer to read. 
+- The script took a little longer to prepare due to ensuring table was read properly plus ensuring the pipeline was correct.
+- The Cohen's d calculations gave an error due to not omitting NA. So decided to give anthropic that instruction and code by omitting NAs.
+- I made change in the code. Used cohens_d() from effectsize instead of cohen.d() from effsize. I tried this, because none of the Cohen's d were matching with article results. Seems like there is some difference in these two functions as cohens_d() gets same results
+- I realised while recording test vs article that there was a misunderstanding in methodology both in mine and the models'. Due to which I had to run the whole script again
+- Still there was a logical error in the final anthropic code where it was considering the aggregated score to calculate t-state, so I just fixed it myself
+
+Result:
+
+- Hardwicke reproduced the mean and sd table from the article, but this was not explicitly mentioned in target_outcomes. So was left out.
+- The p-values were mentioned in article as <0.001 apart from 1 which was 0.394. p-values were not reported but were checked by eye and everything matched. Hardwicke did not mention the p-values for this either.
+

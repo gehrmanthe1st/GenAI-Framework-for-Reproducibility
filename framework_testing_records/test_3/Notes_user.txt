@@ -1,0 +1,11 @@
+Notes:
+
+- Major time was spent in cleaning data for proper processing
+- Using claude 4 from this test forward. billing is similar as 3.7, but anthropic claims sonnet 4 is better at coding workflows, online tests show that it does work better but reddit reviews are mixed. Choice would be opus 4 but that is expensive. 
+- Changing the way the dataset and pdf are provided. Creating contextual window for the complete dataset and article and using stubs for referencing of both.
+	- The dataset provided is a preview with random samples (n=10) from each participant.
+	- A code has been added that allows for creating snippets that creates contextual snippets for full data.
+	- Additional context to also be added as and when needed, for eg. in this case
+		- Additional context about the Boolean columns, as they were converted to 0 and 1 while reading in.
+- Minor changes in the overall framework to adjust for the way the data is now shared
+- Final result missing - mean RT predictive, mean RT non predictive & mean RT difference, calculated by user. 

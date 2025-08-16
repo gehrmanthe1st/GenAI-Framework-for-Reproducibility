@@ -1,0 +1,11 @@
+Notes:
+
+- The dataset though with 867 sample has multiple values missing, so was not sure if the full sample can be used. Additionally for study1 out of total sample we needed 566 observations basis description but could not confirm.
+- The osf space for hosting the data / materials was also not accessible (kept crashing) to reconfirm the dataset available through Hardwicke links. Also the page for their supplemental materials was not available.
+- Error in filtering the dataset, where the dataset was loading gender variables as FALSE rather than 'f' as in the excel file.
+- This error was easily fixed, Anthropic did not add anything more apart from some basic redundancy.
+- User added edits that were made using Anthropic, as there were logical issues with the code. The data was filtered even for summary stats rather than only used for correlation. 
+
+
+Result:
+- The correlation difference between test and Hardwicke exist because the variable used by test are the actual samples, while Hardwicke uses the z-score for these variables. There is not specific instructions by article author regarding the choice of either raw score or z-score.
