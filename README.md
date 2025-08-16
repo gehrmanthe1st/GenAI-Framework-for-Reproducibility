@@ -1,5 +1,9 @@
 # GenAI Reproducibility Framework
 
+## Thesis context & purpose
+
+This repository accompanies my **master’s thesis** on using a structured GenAI workflow to reproduce statistical analyses reported in research articles. The framework turns article Methods/Results into an **auditable analysis pipeline**, generates **vetted R code**, and evaluates outputs against **target outcomes**.
+
 This repository contains:
 - **framework_sample_run/** — self-contained demo (notebook + helpers + 1 article/graph/dataset/targets).
 - **framework_code_only/** — framework notebook + helpers (no data; plug in your own).
